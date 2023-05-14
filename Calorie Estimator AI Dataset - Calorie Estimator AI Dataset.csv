@@ -1,4 +1,4 @@
-Age,Gender,Height,Weight,BMI,Activity Level
+Age,Gender,Height,Weight,BMI,Activity_Level
 21,Male,163,55,Normal weight: BMI 18.5 - 24.9;Overweight: BMI 25 - 29.9,Lightly active (light exercise/sports 1-3 days per week)
 21,Male,163,68,Overweight: BMI 25 - 29.9,Lightly active (light exercise/sports 1-3 days per week)
 23,Male,176.78,94,Obese: BMI >= 30),Lightly active (light exercise/sports 1-3 days per week)
